@@ -153,6 +153,10 @@
     }
   ],
   "tickets": [
-    
+    {
+      "id": "54e3",
+      "film_id": "1",
+      "number_of_tickets": 1
+    }
   ]
 }
